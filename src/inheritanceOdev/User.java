@@ -2,9 +2,9 @@ package inheritanceOdev;
 
 public class User {
 	private String id;
-    private String password;
-    private String email;
-    private String firstName;
+	private String password;
+	private String email;
+	private String firstName;
 	private String lastName;
 	private String course;
     
